@@ -1,5 +1,5 @@
-# AMAZONE-DASHBOARD
-THERE IS THE KEY FEATURS I CAN TRY TO SHOW AND INCESE THE SALLS.
+# AMAZON-DASHBOARD
+THERE IS THE KEY FEATURS I CAN TRY TO SHOW AND INCESE THE SALES.
 1. Yearly Sales: It shows how much was sold each year between 2014 and 2017.
 
 2. Sales Forecast: This part guesses how future sales might look (though I couldn’t see exact details here).
